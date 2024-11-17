@@ -11,3 +11,6 @@
 
 ## ビルドガイド
 準備中
+
+## ファームウェア
+https://github.com/iwk7273/qmk_firmware/tree/main/meteorite40
